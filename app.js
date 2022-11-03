@@ -30,3 +30,4 @@ const keys = document.querySelectorAll('.key')
 // listen to the transitionend event, and run the function
 keys.forEach(key => key.addEventListener('transitionend', removeTransition))
 
+
